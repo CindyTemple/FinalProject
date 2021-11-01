@@ -6,6 +6,13 @@ Hologram game of tetris using something similar to this https://www.walmart.com/
 Will use three dimensional code to program a tetris game.
 Group members have circuit materials from another class and would like to see what they can do with force sensors and accelerometers to modify the game
 
+Raspberry pi laser game. Several lasers with sensors, if one is triggered, lets the player know with either a sound or connected to website/app that lets you know you tripped a wire 
+
+Raspberry pi LED light controlled with voice project - could make some kind of picture out of the LED lights or something more creative than what the project is suggesting
+
+Snake game but the direction changes with the force sensor
+
+
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 Sneha Gonipati
